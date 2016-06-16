@@ -29,4 +29,6 @@
     <!-- Do not translate. Defines the slots for the right-hand side icons.  That is to say, the
          icons in the status bar that are not notifications. -->
     </string-array>
-</resources>
+    <bool name="config_hwKeysPref">true</bool>
+   
+    </resources>
